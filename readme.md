@@ -26,8 +26,7 @@ The application features a dedicated input field for prompts, a "Generate Text" 
 
 1. **Clone the repository**:
    ```bash
-   git clone [https://github.com/mnidevanshu/internship-repo-name.git](https://github.com/mnidevanshu/internship-repo-name.git)
-   cd internship-repo-name
+   https://github.com/mnidevanshu/PRODIGY_GA_01.git
 
 ```
  2. **Install dependencies**:
