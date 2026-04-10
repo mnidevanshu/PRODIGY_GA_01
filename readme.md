@@ -1,4 +1,4 @@
-## PRODIGY_GA_01: Text Generation with GPT-2
+## Task 1 : Text Generation with GPT-2
 This repository contains the implementation of a text generation tool using the GPT-2 Transformer model.
 
 ### 🚀 Project Overview
