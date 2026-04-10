@@ -39,7 +39,5 @@ The application features a dedicated input field for prompts, a "Generate Text" 
    python "main.py"
    
    ```
-## 📝 Future Scope
+## Future Scope
 While the current version uses a pre-trained model for generation, the next phase involves fine-tuning GPT-2 on a custom dataset to mimic specific writing styles and structures more accurately.
-```
-
